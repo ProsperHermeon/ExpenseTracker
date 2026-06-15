@@ -6,7 +6,7 @@ To use the program, run `python3 expense_tracker.py` from the project directory.
 
 My purpose for writing this software was to learn how relational databases work from the ground up — creating tables with relationships, writing SQL queries for CRUD operations, performing JOINs across tables, and using aggregate functions to summarize data. This completes my three-module portfolio covering JavaScript, Web Apps, and now SQL databases.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/2cd7d632bf4c4f9d9096f3a28981c545)
 
 # Relational Database
 
